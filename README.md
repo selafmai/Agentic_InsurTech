@@ -13,6 +13,7 @@ Inteligentni zavarovalni agent z uporabo računalniškega vida in strojnega uče
 
   #
 insurtech_agent/
+
 ├── .env
 
 ├── requirements.txt
