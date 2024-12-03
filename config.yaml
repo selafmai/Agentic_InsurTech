@@ -1,0 +1,32 @@
+app:
+  name: "InsurTech Agent"
+  version: "1.0.0"
+  debug: true
+
+api:
+  weather:
+    base_url: "http://api.openweathermap.org/data/2.5/weather"
+    units: "metric"
+  
+  stripe:
+    success_url: "http://localhost:8501/success"
+    cancel_url: "http://localhost:8501/cancel"
+    currency: "EUR"
+
+insurance:
+  coverage_types:
+    - name: "Stanovanjsko"
+      base_rate: 100.0
+      risk_multiplier: 1.2
+    - name: "Avtomobilsko"
+      base_rate: 200.0
+      risk_multiplier: 1.5
+    - name: "Potovalno"
+      base_rate: 50.0
+      risk_multiplier: 1.1
+
+  weather_risk_factors:
+    storm: 1.5
+    rain: 1.2
+    snow: 1.3
+    clear: 1.0 
