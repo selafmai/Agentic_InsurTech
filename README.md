@@ -1,5 +1,24 @@
 # InsurTech Agent
 
+
+Enter 🏴‍☠️ Insurance Agent 4.0 🚀
+
+
+Agentic InsurTech Aggregator(AIA) 🛡🤖is more than just an upgrade; it’s a revolution! 
+
+🌟 It changes the way consumers interact with the insurance market by providing more:
+ -personalized,
+ -efficient, and
+ -consumer-driven experience.
+
+ https://medium.com/@ales.furlanic/agentic-insurtech-aggregator-aia-8faa95a1f580
+
+ DEMO✨🎠🚀: https://app.wordware.ai/explore/apps/2eb15610-a218-4262-b1f1-22daa3e1e461
+ 
+
+
+
+
 Inteligentni zavarovalni agent z uporabo računalniškega vida in strojnega učenja.
 
 ## Funkcionalnosti
