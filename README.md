@@ -8,8 +8,11 @@ Agentic InsurTech Aggregator(AIA) 🛡🤖is more than just an upgrade; it’s a
 
 🌟 It changes the way consumers interact with the insurance market by providing more:
  -personalized,
+ 
  -efficient, and
+ 
  -consumer-driven experience.
+ 
 
  https://medium.com/@ales.furlanic/agentic-insurtech-aggregator-aia-8faa95a1f580
 
