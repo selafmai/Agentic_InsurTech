@@ -20,8 +20,11 @@ insurtech_agent/
 ├── README.md
 
 ├── app.py
+
 ├── Dockerfile
+
 ├── src/
+
 │   ├── __init__.py
 │   ├── main.py
 │   ├── agent.py
@@ -29,14 +32,17 @@ insurtech_agent/
 │   ├── streamlit_app.py
 │   ├── tools.py
 │   └── utils/
+
 │       ├── __init__.py
 │       ├── helpers.py
 │       ├── image_processor.py
 │       ├── weather_api.py
 │       ├── stripe_handler.py
 │       └── document_generator.py
+
 ├── config/
 │   └── config.yaml
+
 └── tests/
     └── __init__.py
   
