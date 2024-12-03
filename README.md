@@ -1,4 +1,4 @@
-# InsurTech Agent
+# AGENTIC InsurTech 
 
 
 Enter 🏴‍☠️ Insurance Agent 4.0 🚀
@@ -21,6 +21,8 @@ Agentic InsurTech Aggregator(AIA) 🛡🤖is more than just an upgrade; it’s a
 
  DEMO✨🎠🚀: https://app.wordware.ai/explore/apps/2eb15610-a218-4262-b1f1-22daa3e1e461
  
+![b2c_agentic](https://github.com/user-attachments/assets/a070432d-864f-4aa1-bacf-6581401c821b)
+
 
 
 
